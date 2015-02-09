@@ -16,12 +16,14 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    [self testLoadingView];
 }
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+/*loadingViewDemo*/
+- (void)testLoadingView
+{
+    LoadingViewDemo *loadingView = [[LoadingViewDemo alloc] init];
+    [self.view addSubview:loadingView.view];
 }
 
 @end

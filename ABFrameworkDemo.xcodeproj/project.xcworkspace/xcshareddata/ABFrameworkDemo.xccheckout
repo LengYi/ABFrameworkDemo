@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>807A4259-70B8-4335-8C20-4B83F28D186F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ABFrameworkDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>42CD6C88B7DC6E207B47A8CC96B40FB47D02F0EB</key>
+		<string>ssh://github.com/LengYi/ABFramework.git</string>
+		<key>FE98FD6B964B11E0B2F88A8666B75EB62F70AED8</key>
+		<string>ssh://github.com/LengYi/ABFrameworkDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ABFrameworkDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>42CD6C88B7DC6E207B47A8CC96B40FB47D02F0EB</key>
+		<string>../../../ABFramework</string>
+		<key>FE98FD6B964B11E0B2F88A8666B75EB62F70AED8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/LengYi/ABFrameworkDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FE98FD6B964B11E0B2F88A8666B75EB62F70AED8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>42CD6C88B7DC6E207B47A8CC96B40FB47D02F0EB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ABFramework</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FE98FD6B964B11E0B2F88A8666B75EB62F70AED8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ABFrameworkDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
